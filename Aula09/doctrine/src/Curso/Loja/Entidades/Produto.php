@@ -8,7 +8,7 @@ namespace Curso\Loja\Entidades;
 class produto
 {
     /**
-     * @Id @Column(type="integer") @GerenateValue
+     * @Id @Column(type="integer") @GeneratedValue
      */
     protected $id;
     /**
